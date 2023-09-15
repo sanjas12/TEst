@@ -1,1 +1,2 @@
-import random 
+import random
+import cx_Freeze 
