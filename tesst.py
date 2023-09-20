@@ -1,5 +1,5 @@
 import random 
-
+import cx_Freeze 
 
 def main():
     print('main func')
